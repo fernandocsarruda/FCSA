@@ -17,6 +17,8 @@ Estou aprendendo a linguagem Markdown no curso de Git e Github
 
 É possível misturar os sinais e obter palavras em negrito, itálico e riscadas ao mesmo tempo.
 
+__*~~MISTURA~~*__
+
 *** ou --- (Cria uma linha para dividir áreas)
 
 ---
