@@ -7,7 +7,7 @@ Repositório criado durante uma aula.
 
 Teste de Pull
 
-Estou aprendendo a linguagem Markdown no curso de Git e Github
+Um pouco de linguagem Markdown no curso de Git e Github
 
 **NEGRITO** - __negrito__ ou **negrito** (para colocar uma palavra em negrito basta colocá-la entre quatro underlines, dois a esquerda e dois a direita, ou quatro asteriscos, dois a esquerda e dois a direita)
 
@@ -28,3 +28,10 @@ __*~~MISTURA~~*__
 ## Título (nível 2)
 ### Título (nível 3)
 
+---
+
+Lista Numerada:
+1. Teste
+2. Teste 2
+   1. Teste 3 (para sub item, três espaços).
+4. 
