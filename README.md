@@ -36,3 +36,28 @@ Lista Numerada:
    1. Teste 3 (para sub item, três espaços).
    1. Teste 4 (mais um sub item).
 999. Teste 5
+
+---
+
+Lista Demarcada:
+* Teste
+* Teste
+* Teste
+   * Teste
+* Teste
+
+Na lista demarcada podem ser usados o * ou - ; o uso de três espaços também define um sub item.
+
+---
+
+Lista de tarefas
+- [ ] Criar a página principal
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber o pagamento
+- [x] Tarefa finalizada
+
+Após finalizar tarefa basta apenas colocar um x dentro dos colchetes.
+
+
+---
