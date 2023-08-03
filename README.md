@@ -68,5 +68,22 @@ Marca | Modelo | Ano de Fabricação | Cor
 Gibson | Les Paul | 2011 | Sunburst
 Vintage | V6 | 2013 | Olympic White
 Vintage | V100 | 2015 | Iced Tea 
+
+Fim da tabela.
+
+__# Destacando comandos e trechos de programas colocando os comandos entre crases:__
+
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem Javascript.
+
+*Veja o meu programa em Python:*
+
+```
+num = int(input('Digite um valor: '))
+if num % 2 == 0
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+```
+
  
  ---
