@@ -3,7 +3,7 @@
 
 Repositório criado durante uma aula.
 
-*Essa linha eu alterei diretamente no site. Sim, é possível.*
+*Esta linha eu alterei diretamente no site. Sim, é possível.*
 
 Teste de Pull
 
