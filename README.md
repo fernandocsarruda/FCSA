@@ -58,6 +58,8 @@ Lista de tarefas
 - [x] Tarefa finalizada
 
 Após finalizar tarefa basta apenas colocar um x dentro dos colchetes.
+![Gibson LP Goldtop P90's](<gibson lp goldtop p90.jpg>)
 
+[Acesse meu GitHub](https://github.com/fernandocsarruda) 
 
 ---
