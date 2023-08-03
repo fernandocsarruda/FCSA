@@ -85,5 +85,4 @@ else:
     print(f'O valor {num} é ÍMPAR')
 ```
 ---
- 
- ---
+
