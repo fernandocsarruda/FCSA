@@ -60,6 +60,12 @@ Lista de tarefas
 Após finalizar tarefa basta apenas colocar um x dentro dos colchetes.
 ![Gibson LP Goldtop P90's](<gibson lp goldtop p90.jpg>)
 
-[Acesse meu GitHub](https://github.com/fernandocsarruda) 
+[Acesse meu GitHub](https://github.com/fernandocsarruda)
 
----
+Marca | Modelo | Ano de Fabricação | Cor
+---|---|---|---
+Gibson | Les Paul | 2011 | Sunburst
+Vintage | V6 | 2013 | Olympic White
+Vintage | V100 | 2015 | Iced Tea 
+ 
+ ---
