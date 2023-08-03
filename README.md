@@ -1,4 +1,4 @@
-# FCSA: Olá, mundo!
+# TREINO!
  Primeiro repositório do curso de **Git e GitHub**
 
 Repositório criado durante uma aula.
@@ -71,11 +71,11 @@ Vintage | V100 | 2015 | Iced Tea
 
 Fim da tabela.
 
-__# Destacando comandos e trechos de programas colocando os comandos entre crases:__
+### Destacando comandos e trechos de programas colocando os comandos entre crases:
 
 Não entendo direito para que serve o comando `document.getElementById()` da linguagem Javascript.
 
-*Veja o meu programa em Python:*
+**Veja o meu programa em Python:**
 
 ```
 num = int(input('Digite um valor: '))
@@ -84,6 +84,6 @@ if num % 2 == 0
 else:
     print(f'O valor {num} é ÍMPAR')
 ```
-
+---
  
  ---
